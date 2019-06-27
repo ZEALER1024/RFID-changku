@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f496cb87f33fe8e13157d03ee5af53b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c3aa1b8836ce2d9674cf062f436178a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4a21c15c4132071fdc139f695fb3c0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bda562b0e507022deb837a46c64a7c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a8ef2148cd999d0563e86fda08968844\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fc6f57f23b2ec09fa6e977d209eb3fe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\18216d611dc4a4004a7835543b0a4f36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a71de714c83a9dec0e38ec6f794244e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\204686b74490dd69bf5fbc09dafc97ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4eaff9b11bea66a8f998f132417be415\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b7aa3fa7ff54217785aee54d6a09f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a201bf36c738f31fd7d2d2f972ea957f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ddb5371845b58a89e22d7df24488d35\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:3:7-25
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:7:5-99:19
+	android:label
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:7:48-80
+	android:icon
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:7:18-47
+activity#liu.biye.StoreManagementActivity
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:8:9-18:20
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:11:19-56
+	android:label
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:10:19-51
+	android:configChanges
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:9:19-69
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:12:19-83
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:8:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:16:27-74
+activity#liu.biye.UserRegister
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:19:10-21:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:21:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:20:21-85
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:19:20-47
+activity#liu.biye.MenuDemo
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:22:11-24:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:24:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:23:21-85
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:22:21-44
+activity#liu.biye.Tianjiak
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:25:9-27:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:27:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:26:22-86
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:25:19-42
+activity#liu.biye.Chaxunk
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:28:9-30:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:30:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:28:19-41
+activity#liu.biye.Chaxunr
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:31:13-33:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:33:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:31:23-45
+activity#liu.biye.Xiugair
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:34:22-36:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:36:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:34:32-54
+activity#liu.biye.Xiugaic
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:37:22-39:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:39:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:37:32-54
+activity#liu.biye.Xiugair1
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:40:21-42:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:42:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:41:18-82
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:40:31-54
+activity#liu.biye.Xiugaic1
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:43:22-45:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:45:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:44:19-83
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:43:32-55
+activity#liu.biye.Shanchur
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:46:25-48:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:48:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:46:35-58
+activity#liu.biye.Chaxunc
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:49:15-51:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:51:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:49:25-47
+activity#liu.biye.Xiugai
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:52:16-54:33
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:53:22-65
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:52:26-47
+activity#liu.biye.Yonghu
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:55:21-57:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:57:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:55:31-52
+activity#liu.biye.Shanchus
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:58:22-60:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:60:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:58:32-55
+activity#liu.biye.Kucun
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:61:22-63:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:63:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:61:32-52
+activity#liu.biye.Xiugais
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:64:23-66:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:66:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:64:33-55
+activity#liu.biye.Xiugais1
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:67:25-69:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:69:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:67:35-58
+activity#liu.biye.Xiugaik
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:70:26-72:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:72:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:70:36-58
+activity#liu.biye.Xiugaik1
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:73:9-75:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:75:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:74:21-85
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:73:19-42
+activity#liu.biye.Chaxuns
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:76:9-78:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:78:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:76:19-41
+activity#liu.biye.Pandian
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:79:9-81:62
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:81:13-50
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:79:19-41
+activity#liu.biye.Shanchuk
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:83:9-85:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:85:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:83:19-42
+activity#liu.biye.Shanchuc
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:86:25-88:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:88:21-58
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:86:35-58
+activity#liu.biye.Tianjiar
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:89:11-91:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:91:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:90:22-86
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:89:21-44
+activity#liu.biye.Tianjiac
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:92:12-94:70
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:94:21-58
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:93:22-86
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:92:22-45
+activity#liu.biye.Tianjias
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:95:15-98:33
+	android:theme
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:96:22-65
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:95:25-48
+uses-feature#android.hardware.nfc
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:100:5-102:34
+	android:required
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:102:9-32
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:101:9-44
+uses-permission#android.permission.NFC
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:103:5-62
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:103:22-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:104:5-81
+	android:name
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml:104:22-78
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f496cb87f33fe8e13157d03ee5af53b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\f496cb87f33fe8e13157d03ee5af53b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c3aa1b8836ce2d9674cf062f436178a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7c3aa1b8836ce2d9674cf062f436178a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4a21c15c4132071fdc139f695fb3c0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4a21c15c4132071fdc139f695fb3c0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bda562b0e507022deb837a46c64a7c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4bda562b0e507022deb837a46c64a7c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a8ef2148cd999d0563e86fda08968844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a8ef2148cd999d0563e86fda08968844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fc6f57f23b2ec09fa6e977d209eb3fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fc6f57f23b2ec09fa6e977d209eb3fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\18216d611dc4a4004a7835543b0a4f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\18216d611dc4a4004a7835543b0a4f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a71de714c83a9dec0e38ec6f794244e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a71de714c83a9dec0e38ec6f794244e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\204686b74490dd69bf5fbc09dafc97ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\204686b74490dd69bf5fbc09dafc97ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4eaff9b11bea66a8f998f132417be415\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4eaff9b11bea66a8f998f132417be415\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b7aa3fa7ff54217785aee54d6a09f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b7aa3fa7ff54217785aee54d6a09f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a201bf36c738f31fd7d2d2f972ea957f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a201bf36c738f31fd7d2d2f972ea957f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ddb5371845b58a89e22d7df24488d35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ddb5371845b58a89e22d7df24488d35\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\Android-RFID\biyesheji\app\src\main\AndroidManifest.xml

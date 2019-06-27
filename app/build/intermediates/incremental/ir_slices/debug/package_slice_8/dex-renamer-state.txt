@@ -1,0 +1,4 @@
+#Mon May 13 14:44:58 CST 2019
+base.0=E\:\\AndroidStudioProjects\\Android-RFID\\biyesheji\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

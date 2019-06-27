@@ -1,0 +1,308 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf5bda7a273a8d5e6ddd71397e899852\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c1ef949f901b94e8ebc03bf28400f0da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9598efeb0c82efb942a885c1caf7b57e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25c0bdb35393d3c781774deaa027ec3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5523f8bf3f066e003e927ffa798f13da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f4a540f11701535bb6d0b116622d227a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7f76360603eb3f81cab2cd098b31ef04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52a94dc2bd97837f93eda12a4fd76007\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e84fef3974308b7c8999848785d39c2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\aef52934f0b7998ecabc04e11f7f3774\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a8f5451c406d391bf5babd39a5c609f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d5096f6051a08e86ab5d277c8e64451\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5633eda154b7827d084d90faad5ad73f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:3:7-25
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:7:5-113:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:7:48-80
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:7:18-47
+activity#liu.biye.StoreManagementActivity
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:8:9-18:20
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:11:19-56
+	android:label
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:10:19-51
+	android:configChanges
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:9:19-69
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:12:19-83
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:8:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:16:27-74
+activity#liu.biye.UserRegister
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:19:10-21:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:21:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:20:21-85
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:19:20-47
+activity#liu.biye.MenuDemo
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:22:11-24:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:24:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:23:21-85
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:22:21-44
+activity#liu.biye.Tianjiag
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:25:12-27:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:27:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:26:22-86
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:25:22-45
+activity#liu.biye.Tianjiak
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:28:14-30:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:30:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:29:22-86
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:28:24-47
+activity#liu.biye.Chaxung
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:31:12-33:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:33:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:31:22-44
+activity#liu.biye.Chaxunk
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:34:12-36:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:36:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:34:22-44
+activity#liu.biye.Chaxunr
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:37:13-39:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:39:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:37:23-45
+activity#liu.biye.Xiugair
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:40:22-42:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:42:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:40:32-54
+activity#liu.biye.Xiugaic
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:43:22-45:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:45:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:43:32-54
+activity#liu.biye.Xiugair1
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:46:21-48:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:48:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:47:18-82
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:46:31-54
+activity#liu.biye.Xiugaic1
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:49:22-51:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:51:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:50:19-83
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:49:32-55
+activity#liu.biye.Shanchur
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:52:25-54:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:54:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:52:35-58
+activity#liu.biye.Chaxunc
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:55:15-57:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:57:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:55:25-47
+activity#liu.biye.Xiugai
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:58:16-60:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:60:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:59:22-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:58:26-47
+activity#liu.biye.Yonghu
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:61:21-63:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:63:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:61:31-52
+activity#liu.biye.Shanchus
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:64:22-66:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:66:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:64:32-55
+activity#liu.biye.Kucun
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:67:22-69:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:69:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:67:32-52
+activity#liu.biye.Xiugais
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:70:23-72:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:72:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:70:33-55
+activity#liu.biye.Xiugais1
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:73:25-75:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:75:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:73:35-58
+activity#liu.biye.Xiugaik
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:76:26-78:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:78:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:76:36-58
+activity#liu.biye.Xiugaig
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:79:23-81:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:81:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:79:33-55
+activity#liu.biye.Xiugaik1
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:82:21-84:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:84:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:83:21-85
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:82:31-54
+activity#liu.biye.Xiugaig1
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:85:24-87:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:87:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:86:21-85
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:85:34-57
+activity#liu.biye.Chaxuns
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:88:23-90:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:90:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:88:33-55
+activity#liu.biye.Shanchug
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:91:23-93:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:93:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:91:33-56
+activity#liu.biye.Shanchuk
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:97:23-99:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:99:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:97:33-56
+activity#liu.biye.Shanchuc
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:100:25-102:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:102:21-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:100:35-58
+activity#liu.biye.Tianjiar
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:103:11-105:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:105:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:104:22-86
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:103:21-44
+activity#liu.biye.Tianjiac
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:106:12-108:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:108:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:107:22-86
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:106:22-45
+activity#liu.biye.Tianjias
+ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:109:15-112:70
+	android:screenOrientation
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:112:21-58
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:110:22-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml:109:25-48
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf5bda7a273a8d5e6ddd71397e899852\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf5bda7a273a8d5e6ddd71397e899852\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c1ef949f901b94e8ebc03bf28400f0da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c1ef949f901b94e8ebc03bf28400f0da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9598efeb0c82efb942a885c1caf7b57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9598efeb0c82efb942a885c1caf7b57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25c0bdb35393d3c781774deaa027ec3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\25c0bdb35393d3c781774deaa027ec3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5523f8bf3f066e003e927ffa798f13da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5523f8bf3f066e003e927ffa798f13da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f4a540f11701535bb6d0b116622d227a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f4a540f11701535bb6d0b116622d227a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7f76360603eb3f81cab2cd098b31ef04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7f76360603eb3f81cab2cd098b31ef04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52a94dc2bd97837f93eda12a4fd76007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52a94dc2bd97837f93eda12a4fd76007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e84fef3974308b7c8999848785d39c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e84fef3974308b7c8999848785d39c2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\aef52934f0b7998ecabc04e11f7f3774\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\aef52934f0b7998ecabc04e11f7f3774\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a8f5451c406d391bf5babd39a5c609f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1a8f5451c406d391bf5babd39a5c609f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d5096f6051a08e86ab5d277c8e64451\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d5096f6051a08e86ab5d277c8e64451\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5633eda154b7827d084d90faad5ad73f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ZEALER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5633eda154b7827d084d90faad5ad73f\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml

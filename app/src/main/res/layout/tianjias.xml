@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C1CDCD"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/shangpmt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="30sp"
+        android:paddingTop="5sp"
+        android:text="商品名称："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/tianjiashangme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/shangpmt"
+        android:layout_toRightOf="@id/shangpmt"
+        android:hint="请输入商品名称" />
+
+    <TextView
+        android:id="@+id/shangpgt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tianjiashangme"
+        android:layout_marginLeft="10sp"
+        android:paddingTop="5sp"
+        android:text="商品规格："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/tianjiashangge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tianjiashangme"
+        android:layout_toRightOf="@id/shangpgt"
+        android:hint="请输入商品规格" />
+
+    <TextView
+        android:id="@+id/shangpjt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tianjiashangge"
+        android:layout_marginLeft="10sp"
+        android:paddingTop="5sp"
+        android:text="计量单位："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/tianjiashangje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tianjiashangge"
+        android:layout_toRightOf="@id/shangpjt"
+        android:hint="请输入计量单位" />
+
+    <Button
+        android:id="@+id/baocun"
+        android:layout_width="110sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tianjiashangje"
+        android:layout_alignLeft="@+id/tianjiashangje"
+        android:onClick="save"
+        android:text="保存" />
+
+
+</RelativeLayout>

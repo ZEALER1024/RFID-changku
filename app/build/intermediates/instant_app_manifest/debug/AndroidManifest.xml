@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="liu.biye"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="20"
+        android:targetSdkVersion="27" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="liu.biye.StoreManagementActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="liu.biye.UserRegister"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.MenuDemo"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Tianjiak"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Chaxunk"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Chaxunr"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugair"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugaic"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugair1"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Xiugaic1"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Shanchur"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Chaxunc"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugai"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="liu.biye.Yonghu"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Shanchus"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Kucun"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugais"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugais1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugaik"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Xiugaik1"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Chaxuns"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Pandian"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Shanchuk"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Shanchuc"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="liu.biye.Tianjiar"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Tianjiac"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="liu.biye.Tianjias"
+            android:theme="@android:style/Theme.Dialog" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="liu.biye.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

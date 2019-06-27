@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 3.3.2">
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/jibenxinxi`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="  android:id=&quot;@+id/jibenxinxi&quot;"
+        errorLine2="  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\res\layout\menudemo.xml"
+            line="295"
+            column="3"/>
+        <location
+            file="D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\res\layout\menudemo.xml"
+            line="17"
+            column="3"/>
+    </issue>
+
+    <issue
+        id="DuplicateActivity"
+        severity="Fatal"
+        message="Duplicate registration for activity `liu.biye.Chaxung`"
+        category="Correctness"
+        priority="5"
+        summary="Activity registered more than once"
+        explanation="An activity should only be registered once in the manifest. If it is accidentally registered more than once, then subtle errors can occur, since attribute declarations from the two elements are not merged, so you may accidentally remove previous declarations."
+        errorLine1="                      &lt;activity android:name=&quot;Chaxung&quot;"
+        errorLine2="                                ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidStudioProjects\Android-WMSr\biyesheji\app\src\main\AndroidManifest.xml"
+            line="94"
+            column="33"/>
+    </issue>
+
+</issues>

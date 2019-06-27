@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/bane"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="货物盘点"
+        android:textSize="30dp"
+        android:textColor="#454545"
+        android:background="#FFD39B"
+        android:gravity="center"
+        />
+
+    <LinearLayout
+        android:id="@+id/nes"
+        android:layout_width="match_parent"
+        android:background="#FFE4E1"
+        android:layout_height="20dp"
+        android:layout_below="@+id/bane"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:background="#00EEEE"
+                android:gravity="center"
+                android:text="序号"
+                android:textColor="#080808"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_weight="1"
+                android:background="#00EEEE"
+                android:gravity="center"
+                android:text="商品名"
+                android:textColor="#080808"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_weight="1"
+                android:background="#00EEEE"
+                android:gravity="center"
+                android:text="数量"
+                android:textColor="#080808"
+                android:textSize="15dp" />
+
+        </LinearLayout>
+        <View
+            android:layout_width="2dip"
+            android:layout_height="30sp"
+            android:layout_toRightOf="@id/t2"
+            android:background="#ffffff" />
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:background="#00CD00"
+                android:gravity="center"
+                android:text="序号"
+                android:textColor="#080808"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_weight="1"
+                android:background="#00CD00"
+                android:gravity="center"
+                android:text="商品名"
+                android:textColor="#080808"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:layout_weight="1"
+                android:background="#00CD00"
+                android:gravity="center"
+                android:text="数量"
+                android:textColor="#080808"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/nes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ListView
+            android:id="@+id/old_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#EE9572"/>
+        <View
+            android:layout_width="2dip"
+            android:layout_height="30sp"
+            android:layout_toRightOf="@id/t2"
+            android:background="#ffffff" />
+        <ListView
+            android:id="@+id/new_list"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#EE9572"/>
+    </LinearLayout>
+
+</LinearLayout>

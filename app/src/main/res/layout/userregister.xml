@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C1CDCD"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15sp"
+        android:text="用户注册"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/use"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginLeft="120sp"
+        android:layout_marginTop="8sp"
+        android:text="用户账号："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/usename"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_toRightOf="@id/use"
+        android:hint="请输入用户名"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/useidt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usename"
+        android:layout_marginLeft="120sp"
+        android:layout_marginTop="8sp"
+        android:text="输入工号："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/useide"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/usename"
+        android:layout_toRightOf="@id/useidt"
+        android:hint="请输入职工号"
+        android:phoneNumber="true"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/useide"
+        android:layout_marginLeft="120sp"
+        android:layout_marginTop="8sp"
+        android:text="输入密码："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/useide"
+        android:layout_toRightOf="@id/pass"
+        android:hint="请输入密码"
+        android:password="true"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/passsure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/password"
+        android:layout_marginLeft="120sp"
+        android:layout_marginTop="8sp"
+        android:text="密码确认："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/passwordsure"
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/password"
+        android:layout_toRightOf="@id/passsure"
+        android:hint="请输入密码"
+        android:password="true"
+        android:singleLine="true" />
+
+    <Button
+        android:id="@+id/sure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/passwordsure"
+        android:layout_centerHorizontal="true"
+        android:onClick="sure"
+        android:text="确认提交" />
+
+</RelativeLayout>

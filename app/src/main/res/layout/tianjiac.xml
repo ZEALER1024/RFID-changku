@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C1CDCD"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/gysxx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/gsmcs"
+        android:text="公司名称："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <Spinner
+        android:id="@+id/gsmcs"
+        android:layout_below="@+id/jmmc"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@id/gysxx"
+        android:prompt="@string/xzgs" />
+
+    <TextView
+        android:id="@+id/lxr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/lxre"
+        android:text="联  系 人 ："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/lxre"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gsmcs"
+        android:layout_alignLeft="@+id/gsmcs"
+        android:enabled="true"
+        android:editable="false"
+        android:singleLine="true"
+        android:text="待扫描" />
+
+    <TextView
+        android:id="@+id/lxdh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/lxdhe"
+        android:text="联系电话："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/lxdhe"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lxre"
+        android:layout_alignLeft="@+id/gsmcs"
+        android:enabled="true"
+        android:editable="false"
+        android:singleLine="true"
+        android:text="待扫描" />
+
+    <TextView
+        android:id="@+id/spmc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/spmcs"
+        android:layout_alignLeft="@id/spgg"
+        android:text="商品名称："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <Spinner
+        android:id="@+id/spmcs"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/gsmcs"
+        android:layout_toRightOf="@id/spmc"
+        android:prompt="@string/xzsp" />
+
+    <TextView
+        android:id="@+id/spgg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spmcs"
+        android:layout_toRightOf="@id/jhrqd"
+        android:text="商品规格："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/spgge"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spmcs"
+        android:layout_toRightOf="@id/spgg"
+        android:enabled="true"
+        android:editable="false"
+        android:text="待扫描"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/jldw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spgge"
+        android:layout_toRightOf="@id/jhrqd"
+        android:text="计量单位："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+    <EditText
+        android:id="@+id/jldwe"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spgge"
+        android:layout_toRightOf="@id/spgg"
+        android:enabled="true"
+        android:editable="false"
+        android:text="待扫描"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/jhsl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/jhrq"
+        android:layout_alignLeft="@+id/jldw"
+        android:text="出货数量："
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+    <DatePicker
+        android:id="@+id/jhrqd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/lxdhe"
+        android:layout_alignLeft="@+id/gsmcs"
+        />
+
+    <EditText
+        android:id="@+id/jhsle"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/jhsl"
+        android:layout_toRightOf="@id/jhsl"
+        android:enabled="true"
+        android:phoneNumber="true"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/jhrq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lxdhe"
+        android:text="订单日期："
+        android:layout_marginTop="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+
+
+
+    <TextView
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@id/jhsle"
+        android:layout_alignLeft="@id/jhsl"
+        android:textSize="20dp"
+        android:textColor="	#FF3030"
+        android:text="填写信息后靠近标签" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/save"
+        android:layout_alignLeft="@+id/save"
+        android:showText="true"
+        android:switchTextAppearance="@style/SwitchTheme"
+        android:textOff="写卡"
+        android:textOn="读卡"
+        android:thumb="@drawable/switch_rectangle_thumb_selector"
+        android:track="@drawable/switch_rectangle_track"
+        />
+
+    <TextView
+        android:id="@+id/jmmc"
+        android:background="#6495ED"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#000000"
+        android:textSize="30dp" />
+</RelativeLayout>
